@@ -1255,7 +1255,8 @@ button {
 		-ms-filter 0.325s ease-in-out;
 	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 	/* background-image: url("../../images/bg.jpg"); */
-	background-image: url('../../images/color_bkgd_powder.jpeg');
+	/* background-image: url('../../images/color_bkgd_powder.jpeg'); */
+	background-image: url('../../images/black_neon.jpeg');
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
